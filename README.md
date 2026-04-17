@@ -8,7 +8,7 @@ The goal was to create a clean, structured, and responsive layout that displays 
 
 ## 🔗 Live Demo
 
-👉 [Live Site URL](https://hajimee1.github.io/Recipe-Page/)
+👉 [Live Site URL](https://hajimee1.github.io/Testimonials-Grid-Section/)
 
 ---
 
@@ -64,6 +64,6 @@ The layout emphasizes readability, spacing, and visual hierarchy while maintaini
 ## 🚀 Setup
 
 ```bash
-git clone https://github.com/Hajimee1/Recipe-Page.git
-cd Recipe-Page
+git clone https://github.com/Hajimee1/Testimonials-Grid-Section.git
+cd Testimonials-Grid-Section
 ```
