@@ -78,7 +78,7 @@ body {
 /* CARD COLORS */
 #daniel {
   background-color: var(--purple500);
-  background-image: url(/images/bg-pattern-quotation.svg);
+  background-image: url(./images/bg-pattern-quotation.svg);
   background-repeat: no-repeat;
   background-position: top right 4.6em;
 }
