@@ -44,19 +44,19 @@ body {
 }
 
 /* GRID AREAS */
-#daniel {
+.card--daniel {
   grid-area: daniel;
 }
-#jonathan {
+.card--jonathan {
   grid-area: jonathan;
 }
-#jeanette {
+.card--jeanette {
   grid-area: jeanette;
 }
-#patrick {
+.card--patrick {
   grid-area: patrick;
 }
-#kira {
+.card--kira {
   grid-area: kira;
 }
 
@@ -76,18 +76,18 @@ body {
 }
 
 /* CARD COLORS */
-#daniel {
+.card--daniel {
   background-color: var(--purple500);
   background-image: url(./images/bg-pattern-quotation.svg);
   background-repeat: no-repeat;
   background-position: top right 4.6em;
 }
 
-#jonathan {
+.card--jonathan {
   background-color: var(--grey500);
 }
 
-#patrick {
+.card--patrick {
   background-color: var(--darkBlue);
 }
 
@@ -107,22 +107,22 @@ body {
   border-radius: 50%;
 }
 
-#patrick .avatar {
+.card--patrick .avatar {
   border: 2px solid var(--purple500);
 }
 
-#daniel .avatar {
+.card--daniel .avatar {
   border: 2px solid color-mix(in srgb, var(--purple500) 60%, white);
 }
 
 /* HEADER */
-header {
+.card__head {
   display: flex;
   align-items: center;
   gap: 1rem;
 }
 
-.userInfo {
+.user__info {
   display: flex;
   flex-direction: column;
   gap: 0.1em;
